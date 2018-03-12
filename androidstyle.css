@@ -1,3 +1,4 @@
+
 div {
   margin: 0;
   padding: 0;
@@ -21,7 +22,7 @@ div div {
 }
 
 .l_eye, .r_eye {
-  background: #fff;
+  background: white;
   width: 20px;
   height: 20px;
   position: absolute;
